@@ -1,5 +1,7 @@
 # git-lab
-## Team
+## People
 * Alex
 * Bob
 * Madison
+* Yanni
+
